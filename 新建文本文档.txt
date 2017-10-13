@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new edir
+=======
+new edir aaaaaa
+>>>>>>> 5ac0ec1a4b549a0ef1144958eafe9764e885935f
